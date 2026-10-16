@@ -11,7 +11,7 @@
 ### Generative models:
 - https://github.com/shbv/GenerativeModels
 
-### Traditional ML / DSA / SW
+### ML / DSA
 - https://github.com/shbv/ML_Projects
 - https://github.com/shbv/AI_Search_Algorithm_Projects
 - https://github.com/shbv/ML_Models_From_Scratch
@@ -20,5 +20,5 @@
 
 ### Past research
 - https://github.com/shbv/BMVC_Partially_Supervised_Novel_Object_Captioning  
-(Cross-entropy + RL training: https://papers.bmvc2022.cvml.group/0649.pdf)
+(Cross-entropy + RL: https://papers.bmvc2022.cvml.group/0649.pdf)
 
