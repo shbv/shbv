@@ -19,6 +19,6 @@
 - https://github.com/shbv/Python
 
 ### Past research
-- https://github.com/shbv/BMVC_Partially_Supervised_Novel_Object_Captioning
+- https://github.com/shbv/BMVC_Partially_Supervised_Novel_Object_Captioning  
 (Cross-entropy + RL training: https://papers.bmvc2022.cvml.group/0649.pdf)
 
