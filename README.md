@@ -5,7 +5,7 @@
 ### Agentic AI: 
 - https://github.com/shbv/Agentic_AI
 
-### RAG/Embeddings/VectorDB: 
+### RAG/Embeddings: 
 - https://github.com/shbv/Embeddings_RAG_Search_Recommenders
 
 ### Generative models:
