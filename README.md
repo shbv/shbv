@@ -11,7 +11,6 @@ LLM/VLM fundamentals: GPT2/Llama3 built from scratch in PyTorch, pre-training, f
 - [3_pytorch_from_scratch_llm_code](https://github.com/shbv/LLMs_VLMs_1/tree/main/3_pytorch_from_scratch_llm_code): modular code for LLM pre-training and fine-tuning.
 - [4_huggingface_api_notebooks](https://github.com/shbv/LLMs_VLMs_1/tree/main/4_huggingface_api_notebooks): training, fine-tuning and inference with Hugging Face.
 - [5_pytorch_from_scratch_vlm_code](https://github.com/shbv/LLMs_VLMs_1/tree/main/5_pytorch_from_scratch_vlm_code): VLM code and customizing HF models.
-- [optimizations](https://github.com/shbv/LLMs_VLMs_1/tree/main/optimizations): training and inference optimization notes.
 
 ### [LLMs_VLMs_2](https://github.com/shbv/LLMs_VLMs_2)
 Continuation of LLM/VLMs: pre-training, post-training, distillation, quantization, serving and evaluation.
