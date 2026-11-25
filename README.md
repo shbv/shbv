@@ -1,6 +1,6 @@
 ## Overview
 
-Projects spanning LLMs/VLMs, Agentic AI, RAG, Generative models, classical ML, and algorithms. Most are hands-on notebooks and code based on courses/papers, with my own notes.
+Projects/Codes spanning LLMs/VLMs, Agentic AI, RAG, Generative models, classical ML, and algorithms.
 
 ## LLMs / VLMs
 
@@ -13,7 +13,8 @@ LLM/VLM fundamentals: GPT2/Llama3 built from scratch in PyTorch, pre-training, f
 - [5_pytorch_from_scratch_vlm_code](https://github.com/shbv/LLMs_VLMs_1/tree/main/5_pytorch_from_scratch_vlm_code): VLM code and customizing HF models.
 
 ### [LLMs_VLMs_2](https://github.com/shbv/LLMs_VLMs_2)
-Continuation of LLM/VLMs: pre-training, post-training, distillation, quantization, serving and evaluation.
+Continuation of LLM/VLMs: pre-training, post-training, distillation, quantization, serving and evaluation.- [BrowserAgents](https://github.com/shbv/Agentic_AI/tree/main/BrowserAgents): web browser agents.
+
 - [PreTraining_LLMs](https://github.com/shbv/LLMs_VLMs_2/tree/main/PreTraining_LLMs): continual pre-training with data cleanup and depth upscaling.
 - [PostTraining_LLMs](https://github.com/shbv/LLMs_VLMs_2/tree/main/PostTraining_LLMs): SFT, DPO and GRPO with Hugging Face.
 - [PostTraining_LLMs_1](https://github.com/shbv/LLMs_VLMs_2/tree/main/PostTraining_LLMs_1): RLHF with PPO.
@@ -37,7 +38,6 @@ Agent concepts, design patterns and frameworks with examples.
 - [CrewAI](https://github.com/shbv/Agentic_AI/tree/main/CrewAI): multi-agent systems with CrewAI.
 - [SmolAgents](https://github.com/shbv/Agentic_AI/tree/main/SmolAgents): code agents and secure code execution.
 - [MCP](https://github.com/shbv/Agentic_AI/tree/main/MCP): Model Context Protocol basics.
-- [BrowserAgents](https://github.com/shbv/Agentic_AI/tree/main/BrowserAgents): web browser agents.
 - [CodingAgents_E2B](https://github.com/shbv/Agentic_AI/tree/main/CodingAgents_E2B): coding agents executed in E2B sandboxes (data analyst, full-stack developer).
 - [ContextEngineering](https://github.com/shbv/Agentic_AI/tree/main/ContextEngineering): context failure modes, agentic search, context management and memory.
 - [LoopEngineering](https://github.com/shbv/Agentic_AI/tree/main/LoopEngineering): agent loops (verification, learning, event-driven) with LangChain Deep Agents.
