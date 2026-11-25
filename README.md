@@ -13,8 +13,7 @@ LLM/VLM fundamentals: GPT2/Llama3 built from scratch in PyTorch, pre-training, f
 - [5_pytorch_from_scratch_vlm_code](https://github.com/shbv/LLMs_VLMs_1/tree/main/5_pytorch_from_scratch_vlm_code): VLM code and customizing HF models.
 
 ### [LLMs_VLMs_2](https://github.com/shbv/LLMs_VLMs_2)
-Continuation of LLM/VLMs: pre-training, post-training, distillation, quantization, serving and evaluation.- [BrowserAgents](https://github.com/shbv/Agentic_AI/tree/main/BrowserAgents): web browser agents.
-
+Continuation of LLM/VLMs: pre-training, post-training, distillation, quantization, serving and evaluation.
 - [PreTraining_LLMs](https://github.com/shbv/LLMs_VLMs_2/tree/main/PreTraining_LLMs): continual pre-training with data cleanup and depth upscaling.
 - [PostTraining_LLMs](https://github.com/shbv/LLMs_VLMs_2/tree/main/PostTraining_LLMs): SFT, DPO and GRPO with Hugging Face.
 - [PostTraining_LLMs_1](https://github.com/shbv/LLMs_VLMs_2/tree/main/PostTraining_LLMs_1): RLHF with PPO.
